@@ -4,6 +4,7 @@
 ### run the simple code below on
 https://recursion.vercel.app/
 
+```
 function fn(n) {
   if(n <=2)
   return n
@@ -11,6 +12,7 @@ function fn(n) {
    fn(n-2)
    fn(n-3)
 }
+```
  
 
 
